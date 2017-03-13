@@ -1,5 +1,5 @@
 _repo: Correspondence-of-Wagner-and-Liszt-Volume-2_4234
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hueffer, Francis
@@ -12,6 +12,9 @@ contributor:
     deathdate: 1889
     gutenberg_agent_id: '1326'
     url: http://www.gutenberg.org/2009/agents/1326
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Wagner, Richard
@@ -34,6 +37,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1266
     wikipedia: http://en.wikipedia.org/wiki/Franz_Liszt
 description: Translation of Briefwechsel zwischen Wagner und Liszt.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4234#Correspondence-of-Wagner-and-Liszt-Volume-2
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
