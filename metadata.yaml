@@ -1,5 +1,5 @@
 _repo: Correspondence-of-Wagner-and-Liszt-Volume-2_4234
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Hueffer, Francis
@@ -51,5 +51,6 @@ subjects:
 - !lcsh 'Liszt, Franz, 1811-1886 -- Correspondence'
 - !lcsh 'Wagner, Richard, 1813-1883 -- Correspondence'
 - !lcc 'ML'
+- GITenberg
 title: Correspondence of Wagner and Liszt — Volume 2
 url: http://www.gutenberg.org/ebooks/4234
